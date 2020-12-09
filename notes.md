@@ -1,3 +1,7 @@
+# This is a markdown file
+See information on makdown on wikipedia:
+https://en.wikipedia.org/wiki/Markdown
+
 # Notes on git
 When a directory has been added to git by mistake. If you want to
 remove it from git without deleting it from your system. Example: `.idea/`
